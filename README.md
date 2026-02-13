@@ -1,1 +1,1 @@
-This practices of 2 weak are about boolean values(true, false), conditional statements(if, elif, else) and loops(for, while).
+This practices of 4 weak are about functions, inheritance, lambda fubctions and classes.
