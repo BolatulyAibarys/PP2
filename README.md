@@ -1,1 +1,1 @@
-This practices of 4 weak are about functions, inheritance, lambda fubctions and classes.
+This week 4 focused on four key areas in Python: Generators, Math, Dates, and JSON.
