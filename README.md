@@ -1,1 +1,1 @@
-This week 4 focused on four key areas in Python: Generators, Math, Dates, and JSON.
+This week 5 focused on RegEx in puthon(operations with data in string)
