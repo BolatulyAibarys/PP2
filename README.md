@@ -1,1 +1,1 @@
-This week 5 focused on RegEx in puthon(operations with data in string)
+This week 6 focused on File handling exercises, Directory exercises and Built-in functions
