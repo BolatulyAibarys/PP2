@@ -1,0 +1,5 @@
+Line 1: Hello
+Line 2: Python file handling
+Line 3: Practice example
+Line 4: Appended text
+Line 5: Another appended line
