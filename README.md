@@ -1,1 +1,1 @@
-This week 6 focused on File handling exercises, Directory exercises and Built-in functions
+This week 7 focused on SQL servers connected to vs code
