@@ -1,1 +1,1 @@
-This week 7 focused on SQL servers connected to vs code
+This week 8 focused on creating SQL functions snd procedures, also using them on pqAdmin program databases
