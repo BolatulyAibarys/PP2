@@ -1,4 +1,10 @@
-Practice9 – Pygame Projects
+Practice10 – Pygame Projects
 
-This repository contains three small projects built using Python and Pygame: a digital clock, a music player, and a moving ball game.  
-Each project demonstrates basic concepts such as graphics rendering, user input handling, and working with multimedia in Pygame.This week 8 focused on creating SQL functions snd procedures, also using them on pqAdmin program databases
+Snake:
+A classic Snake game where the player collects food, grows longer, and avoids collisions with walls and itself.
+
+Racer:
+A simple racing game where the player avoids enemy cars, collects coins, and increases score and level.
+
+Paint:
+A basic drawing application that allows the user to draw, change colors, use shapes, erase, and save images.
