@@ -1,0 +1,123 @@
+[
+    {
+        "first_name": "Aliya",
+        "phone": "87012345678",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "87012345678",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Dias",
+        "phone": "87098765432",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "87098765432",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aruzhan",
+        "phone": "87055554433",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "87055554433",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aidos",
+        "phone": "87000000000",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "87000000000",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Adilhan",
+        "phone": "7777",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "7777",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Darin",
+        "phone": "5555",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "5555",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Jade",
+        "phone": "88897456987",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "88897456987",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "John",
+        "phone": "99997784567",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "99997784567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Ayan",
+        "phone": "87001234567",
+        "email": "ayan@gmail.com",
+        "birthday": "2005-04-12",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87001234567",
+                "type": "mobile"
+            },
+            {
+                "phone": "87271234567",
+                "type": "work"
+            }
+        ]
+    }
+]
